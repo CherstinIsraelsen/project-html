@@ -1,44 +1,77 @@
 body {
+
   margin: 0;
+
   padding: 0;
+
   font-size: 28px;
+
 }
+
+
 
 h2, p {
+
   margin: 10px;
+
 }
 
-/* The main menu bar background */
+
+
 ul {
+
   list-style-type: none;
+
   margin: 0;
+
   padding: 0;
+
   overflow: hidden;
-  background-color: #5B99C2; /* Friendly Sky Blue */
+
+  background-color: #333333;
+
   position: sticky;
+
   top: 0;
+
 }
+
+
 
 ul li {
+
   float: left;
+
 }
 
-/* The text inside the menu */
+
+
 ul li a {
+
   display: block;
-  color: white; 
+
+  color: white;
+
   text-align: center;
+
   padding: 14px 16px;
+
   text-decoration: none;
-  font-weight: bold; 
+
 }
 
-/* The color when you hover over a link */
+
+
 ul li a:hover {
-  background-color: #347AAB; /* Slightly darker blue */
+
+  background-color: #111111;
+
 }
 
-/* The color for the page you are currently on */
+
+
 ul li a.active {
-  background-color: #FF9800; /* Warm Marigold/Orange */
+
+  background-color: #4CAF50;
+
 }
