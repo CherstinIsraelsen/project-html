@@ -28,7 +28,7 @@ ul {
 
   overflow: hidden;
 
-  background-color: #333333;
+  background-color: #5B99C2;
 
   position: sticky;
 
@@ -64,7 +64,7 @@ ul li a {
 
 ul li a:hover {
 
-  background-color: #111111;
+  background-color: #347AAB;
 
 }
 
@@ -72,6 +72,6 @@ ul li a:hover {
 
 ul li a.active {
 
-  background-color: #4CAF50;
+  background-color: #FF9800;
 
 }
